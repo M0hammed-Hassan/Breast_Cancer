@@ -8,7 +8,7 @@ My target in this project is to build an machine learning model to predict wheth
 - Warnings
 # Pairplot
 <img src="Images/pairplot.png" alt="Pairplot">
-##### From the shapes of the features i used decision tree classifier model in the stage of building ML model.
+#### From the shapes of the features i used decision tree classifier model in the stage of building ML model.
 
 # Training and Testing Score
 <img src="Images/scores.png" alt="The Scores">
